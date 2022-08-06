@@ -1,8 +1,11 @@
 # Calculator
 
 A Calculator
-(Design Onlu)
+(Design Only)
 
-Download Link:
-ANDROID ONLY!
-https://mega.nz/file/hZAyzahZ#SHZm8lbqPeqx0BtdF2LgeuUh51wY7I3dDsELiiK-cTQ
+ANDROID ONLY)
+
+CHANGELOG:
+fix 0.0.1
+.Addded Icon
+.Optimized layout
